@@ -1,3 +1,13 @@
+# Topics to Learn
+- [ ] How to use Git
+- [ ] VirtualBox & Vagrant
+- [ ] Agile Planning
+- [ ] Unittest
+- [ ] Creating a CI/CD pipeline
+- [ ] Docker
+- [ ] Infrastructure as code / deploying to cloud (AWS)
+
+
 # Resmo
 
 It is to build the `/users` resource.
