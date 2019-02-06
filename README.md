@@ -49,6 +49,37 @@ it will show the test result and coverage rate
 
 ## API Docs.
 
+### User 
+#### Add a new user
+
+```Bash
+```
+
+return : user_id
+
+Create a new user with username, 'panda', and unhashed passwords, "pass".
+
+#### Get a token
+
+```Bash
+```
+return : user token
+
+Retrieve a token for user login.
+
+#### Read a user
+
+```Bash
+```
+
+return : user_id
+
+Retrieve user information given username and password.
+
+
+
+
+
 ### List Resources 
 
 1. `/users`
